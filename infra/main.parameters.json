@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "environmentName": {
+      "value": "sed-sandbox-dev-629a"
+    },
+    "location": {
+      "value": "eastus2"
+    },
+    "sessionId": {
+      "value": "629a28de-c286-40a3-9c6e-acac062d2499"
+    },
+    "deployedBy": {
+      "value": "Terrence McLaughlin"
+    },
+    "createdAt": {
+      "value": "2026-10-23T14:31:47-07:00"
+    },
+    "deployerObjectId": {
+      "value": ""
+    }
+  }
+}
